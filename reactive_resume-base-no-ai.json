@@ -1,0 +1,487 @@
+{
+  "basics": {
+    "name": "Kevin Allen Briggs",
+    "headline": "Full Stack Web Developer",
+    "email": "kevin@kb-family.com",
+    "phone": "337-277-0907",
+    "location": "Fort Collins, CO 80526",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "http://localhost:9000/default/cmhccsnfm0000naoy97x0czr2/pictures/dhln6rfvmug7ybeg2pxvcoli.jpg",
+      "size": 120,
+      "aspectRatio": 1,
+      "borderRadius": 9999,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Experienced Full Stack Web Developer with over 8 years of experience building impactful and user-friendly websites and customer experiences. Passionate about modern web standards and implementing proven techniques and practices for delivering projects on time and within budget, from concept to deployment.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "ggtjjas8x6ne5rvw6c90fpnh",
+          "visible": true,
+          "title": "Employee of the Year",
+          "awarder": "City of Loveland, CO",
+          "date": "",
+          "summary": "<p></p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "zj0x7owhvejtruty8ws5wza4",
+          "visible": true,
+          "title": "Army Commendation Medal",
+          "awarder": "U.S. Army",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "spdhh9rrqi1gvj0yqnbqunlo",
+          "visible": false,
+          "name": "Full-Stack Web Development",
+          "issuer": "CodeAcademy",
+          "date": "2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "n838rddyqv47zexn6cxauwqp",
+          "visible": false,
+          "name": "AWS Certified Developer",
+          "issuer": "Amazon Web Services",
+          "date": "2019",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "qwwwx1rpq97kqoi18d8qtp4i",
+          "visible": true,
+          "name": "Information Assurance Security Officer II",
+          "issuer": "U.S. Army",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "education",
+      "items": [
+        {
+          "id": "yo3p200zo45c6cdqc6a2vtt3",
+          "visible": true,
+          "institution": "American Public University",
+          "studyType": "",
+          "area": "Computer Science",
+          "score": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "w1f7vhyrf55akz0iwiuojcjw",
+          "visible": true,
+          "institution": "United States Army",
+          "studyType": "",
+          "area": "Information Assurance Security Officer II",
+          "score": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "lhw25d7gf32wgdfpsktf6e0x",
+          "visible": true,
+          "company": "PS Audio International",
+          "position": "Web Deveoper III",
+          "location": "Boulder, CO",
+          "date": "January 2017 - October 2025",
+          "summary": "<ul><li><p>Spearheaded multiple redesigns and reimplementations of the company eCommerce website, increasing sales through the platform by 20%.</p></li><li><p>Managed up to 6 Linux (mostly Ubuntu) servers on bare metal, virtual environments, and AWS.</p></li><li><p>Migrated, refactored and upgraded multiple legacy business-critical PHP applications resulting in increased usability, productivity, and efficiency of multiple departments.</p></li><li><p>Wrote multiple WordPress plugins and Shopify apps from scratch to enable features not available elsewhere, including a custom \"trade-in\" discount program, product registrations, an online magazine publication, and IP-based content geolocation.</p></li><li><p>Worked directly with the Sales and Marketing team to customize the company eCommerce website for monthly and seasonal promotions and sales, consistently enabling the company to meet their monthly revenue goals.<br></p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.psaudio.com"
+          }
+        },
+        {
+          "id": "r6543lil53ntrxmvel53gbtm",
+          "visible": true,
+          "company": "Loveland Public Library (City of Loveland, CO)",
+          "position": "Systems Adminstrator / Web Developer",
+          "location": "Loveland, CO",
+          "date": "June 2015 to September 2017",
+          "summary": "<ul><li><p>Managed, implemented, and maintained all library-owned IT infrastructure including PCs, network/wifi equipment, printers, and all resources within the public-use computer lab.</p></li><li><p>Responsible for maintaining a custom PHP web application used to create, maintain and distribute shift schedules for all library employees.</p></li><li><p>Created a custom web application using the Laravel PHP framework to identify, catalog, and report patron incidents within the library resulting in fewer and faster escalations of incidents to law enforcement.</p></li><li><p>Worked the computer lab support desk, honing my interpersonal skills working with individuals who were often confused, aggressive, defiant, or otherwise counter-productive to their own IT goals.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.lovelandpubliclibrary.org/"
+          }
+        },
+        {
+          "id": "bpp9ki211sykf31njzuawa6h",
+          "visible": true,
+          "company": "Firefly Digital",
+          "position": "Server Administrator & Customer Service",
+          "location": "Lafayette, LA",
+          "date": "May 2014 - June 2015",
+          "summary": "<ul><li><p>Managed multiple Linux-based servers, including the administration of Apache virtual hosts, PHP-FPM configurations, ....</p></li><li><p>Technical customer service for issues the Account Managers were not able to solve</p></li><li><p>Helped develop and maintain a proprietary PHP-based content management system (CMS).</p></li><li><p>Integrated websites with external systems and APIs such as UPS shipping, ...</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://marketwithfirefly.com/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests & Hobbies",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "gvzjfrmwcrj0d6n4a9nvld8l",
+          "visible": true,
+          "name": "Home Lab",
+          "keywords": []
+        },
+        {
+          "id": "s0uk634uh5m2qkzes90td1ry",
+          "visible": true,
+          "name": "Board Games",
+          "keywords": []
+        },
+        {
+          "id": "yds4biq9yxmbr5186z8yn4xo",
+          "visible": true,
+          "name": "Guitar",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Programming Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "qxrc4y349km8xzwaec6j9bps",
+          "visible": true,
+          "name": "PHP",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "c19uos3u5ualrtucmh1ypptv",
+          "visible": true,
+          "name": "JavaScript",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "jw8ru6dv1epmp8bxobzhgpfj",
+          "visible": true,
+          "name": "HTML5",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "pjplto6yehz4rxy20drleahj",
+          "visible": true,
+          "name": "CSS3",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "lhy6lh979kl8dcoiod5shbh9",
+          "visible": true,
+          "name": "Shopify Liquid",
+          "description": "",
+          "level": 3
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "cnbk5f0aeqvhx69ebk7hktwd",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "kevinallenbriggs",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/kevinallenbriggs"
+          }
+        },
+        {
+          "id": "ukl0uecvzkgm27mlye0wazlb",
+          "visible": true,
+          "network": "GitHub",
+          "username": "kevinallenbriggs",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/kevinallenbriggs"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "projects",
+      "items": [
+        {
+          "id": "yw843emozcth8s1ubi1ubvlf",
+          "visible": true,
+          "name": "E-Commerce Platform",
+          "description": "Project Lead",
+          "date": "",
+          "summary": "<p>Led the development of a full-stack e-commerce platform, improving sales conversion by 25%.</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ncxgdjjky54gh59iz2t1xi1v",
+          "visible": true,
+          "name": "Interactive Dashboard",
+          "description": "Frontend Developer",
+          "date": "",
+          "summary": "<p>Created an interactive analytics dashboard for a SaaS application, enhancing data visualization for clients.</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "references",
+      "items": [
+        {
+          "id": "f2sv5z0cce6ztjl87yuk8fak",
+          "visible": true,
+          "name": "Available upon request",
+          "description": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "hn0keriukh6c0ojktl9gsgjm",
+          "visible": true,
+          "name": "Web Technologies",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "HTML5",
+            "JavaScript",
+            "PHP",
+            "CSS",
+            "MySQL",
+            "GraphQL",
+            "Shopify",
+            "WordPress"
+          ]
+        },
+        {
+          "id": "r8c3y47vykausqrgmzwg5pur",
+          "visible": true,
+          "name": "Server Administration & Hosting",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "Apache",
+            "Node.js",
+            "DNS",
+            "AWS",
+            "Bash",
+            "SSL Certificates",
+            "Linux"
+          ]
+        },
+        {
+          "id": "b5l75aseexqv17quvqgh73fe",
+          "visible": true,
+          "name": "Tools",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "Webpack",
+            "Git",
+            "Docker",
+            "VSCode",
+            "Vim",
+            "Shopify CLI",
+            "WSL2",
+            "Certbot",
+            "Bitbucket"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "references"
+        ],
+        [
+          "profiles",
+          "skills",
+          "certifications",
+          "interests",
+          "languages",
+          "awards",
+          "volunteer",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 14,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#059669"
+    },
+    "typography": {
+      "font": {
+        "family": "Merriweather",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 13
+      },
+      "lineHeight": 1.75,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
